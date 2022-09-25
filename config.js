@@ -502,7 +502,7 @@ global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
 global.stickpack = 'RzBot-MD'
-global.stickauth = `© RzBot-MD\nOfficial by Whatsapp\6283865752867: ${global.nomorbot}`
+global.stickauth = `© DaniXd\nOfficial by Whatsapp\: ${global.nomorbot}`
 global.packname = 'By Rz06'
 
 global.multiplier = 38 // The higher, The harder levelup
