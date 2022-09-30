@@ -50,9 +50,9 @@ global.psaweria = '-' //Saweria
 global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* -\n│┝‷✧ *Dana:* -\n│┝‷✧ *Gopay:* -\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6285742907192' //Nomor Bot mu
+global.nomorbot = '6285842279221' //Nomor Bot mu
 global.nomorown = '6283865752867' //Nomormu
-global.namebot = 'RzBot-MD V2' //Nama bot mu
+global.namebot = 'RzBot-MD' //Nama bot mu
 global.nameown = 'Rizqi06' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
